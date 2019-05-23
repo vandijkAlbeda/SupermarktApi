@@ -1,7 +1,7 @@
 <?php
 /* 
  * This php file checks:
- *      - the header application
+ *      - the header content type
  *      - the header version
  *      - the header authentication
  * 
